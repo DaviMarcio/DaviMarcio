@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-marcio-007275292/)
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMarcio&_show_icons=true&theme=dracula )
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaviMarcio&theme=dracula)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=DaviMarcio&theme=dracula&title=Commits,Followers,Repositories)
 
 ### Tecnologias que uso no dia a dia
