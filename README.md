@@ -16,7 +16,7 @@
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMarcio&_show_icons=true&theme=dracula )
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaviMarcio&theme=dracula)](https://git.io/streak-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=DaviMarcio&theme=dracula&title=Commits,Followers,Repositories)
+
 
 ---
 </div>
