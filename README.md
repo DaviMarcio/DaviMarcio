@@ -3,6 +3,8 @@
  <img align= "center" height="60" width="60" src="https://media.tenor.com/-hWWcfwUzTAAAAAj/when-you.gif">
 </h2>
 <div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/920134506181193739?&bg=282A36)](https://discord.com/users/920134506181193739)
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davimarcio_ofc/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ghost-kw2dr)
