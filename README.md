@@ -17,7 +17,7 @@
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/920134506181193739?&bg=282A36)](https://discord.com/users/920134506181193739)
 
-</div>
+</div></br>
 
 <h3 align="center">
   My stats 
