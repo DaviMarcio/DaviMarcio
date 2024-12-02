@@ -28,7 +28,7 @@
 <div align="center">
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMarcio&show_icons=true&theme=dracula&)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaviMarcio&theme=dracula)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaviMarcio&theme=dracula)
 
 </div></br>
 
