@@ -1,9 +1,12 @@
-<h2 align="center">
+
+<h1 align="center">
  Hi! I'm Davi 
  <img align= "center" height="60" width="60" src="https://media.tenor.com/-hWWcfwUzTAAAAAj/when-you.gif">
-</h2>
+</h1>
 <div align="center">
 
+
+<img height= "300" width= "1000" src="https://media1.tenor.com/m/KHhdyO2B0r0AAAAd/rain-anime.gif"></img>
 
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davimarcio_ofc/)
@@ -28,7 +31,6 @@
 <div align="center">
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMarcio&show_icons=true&theme=dracula&)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaviMarcio&theme=dracula)
 
 </div></br>
 
