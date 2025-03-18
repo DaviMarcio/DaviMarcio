@@ -1,13 +1,10 @@
 
-<h1 align="center">
- Hi! I'm Davi 
- <img align= "center" height="60" width="60" src="https://media.tenor.com/-hWWcfwUzTAAAAAj/when-you.gif">
-</h1>
-<div align="center">
-
-
 <img height= "300" width= "1000" src="https://media1.tenor.com/m/KHhdyO2B0r0AAAAd/rain-anime.gif"></img>
 
+<h1 align="center">
+ Hi! I'm Davi 👋
+</h1>
+<div align="center">
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davimarcio_ofc/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ghostzyvy)
