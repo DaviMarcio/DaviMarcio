@@ -1,26 +1,30 @@
-
-<img height= "300" width= "1000" src="https://media1.tenor.com/m/KHhdyO2B0r0AAAAd/rain-anime.gif"></img>
-
-<h1 align="center">
+<h3 align="start">
  Hi! I'm Davi 👋
-</h1>
+</h3>
+<h4>
+ Welcome
+</h4>
+<ul>
+ <li>
+  ✨ I'm currently designing a website
+ </li>
+</ul>
 <div align="center">
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davimarcio_ofc/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ghostzyvy)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/davi532?si=45251bd8457247ed&nd=1&dlsi=8fb15879d56c428f)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/920134506181193739?&bg=282A36)](https://discord.com/users/920134506181193739)
+
 </div><br/>
 <div align="center">
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/920134506181193739?&bg=282A36)](https://discord.com/users/920134506181193739)
 
-</div></br>
 
-<h3 align="center">
-  My stats 
- <img align= "center" height="80" width="80" src="https://media.tenor.com/WCXHO9M14MkAAAAj/clap-bocchi.gif">
-</h3>
+</div>
+
+
 
 <div align="center">
 
